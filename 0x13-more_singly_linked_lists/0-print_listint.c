@@ -2,8 +2,8 @@
 
 /**
  * print_listint - Prints all elements of a listint_t list.
- * @head: Variable containing the list
- * return: The number of nodes
+ * @h: Variable containing the list
+ * Return: The number of nodes
  *
  */
 
