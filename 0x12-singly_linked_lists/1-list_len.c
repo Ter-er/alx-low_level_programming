@@ -3,7 +3,6 @@
 /**
  * list_len - function that finds the number of elements in list_t list
  * @h: The linked list list_t
- * @counter: a counter for size_t
  * Return: the number of nodes
  */
 
