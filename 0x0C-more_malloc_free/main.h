@@ -3,8 +3,8 @@
 
 
 #include <stdio.h>
-#include <atdlib.h>
-#include <limitsh>
+#include <stdlib.h>
+#include <limits.h>
 
 
 int _putchar(char c);
